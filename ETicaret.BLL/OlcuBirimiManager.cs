@@ -38,5 +38,8 @@ namespace ETicaret.BLL
             }
             return 0;
         }
+      //wadawdawdawdawdwaaaaaaaaaaaaaaaaaaaaaaaaaaaaa//
+      <!------------------------------------------------
+         /*///////////////////////////////////*/
     }
 }
